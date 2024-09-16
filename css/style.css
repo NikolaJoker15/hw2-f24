@@ -64,11 +64,11 @@ div.blue {
     border-top: 2px solid #FFFFFF; 
 }
 
-div.blue h2 {
+div.blue > h2 {
     color: #FFFFFF; 
 }
 
-div.blue p {
+div.blue > p {
     color: #C4C4C4; 
 }
 
@@ -94,11 +94,11 @@ div.green {
     border-top: 2px solid #FFFFFF; 
 }
 
-div.green h2 {
+div.green > h2 {
     color: #FFFFFF; 
 }
 
-div.green p {
+div.green > p {
     color: #333333; 
 }
 

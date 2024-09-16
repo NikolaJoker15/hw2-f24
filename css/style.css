@@ -65,7 +65,7 @@ div.blue {
 }
 
 div.blue > h2 {
-    color: #FFFFFF; 
+    color: #C4C4C4; 
 }
 
 div.blue > p {
@@ -93,11 +93,11 @@ div.green {
 }
 
 div.green > h2 {
-    color: #FFFFFF; 
+    color: #333333; 
 }
 
 div.green > p {
-    color: #333333; 
+    color: #FFFFFF; 
 }
 
 

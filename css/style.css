@@ -50,11 +50,18 @@ div{
 
 .blue{
     background-color: #0000FF;
-    color: #FFFFFF; 
     text-align: left;
     margin-right: 50px;
     border-right: 5px solid;
     border-top: 2px solid;
+}
+
+.blue h2 {
+    color: #FFFFFF; 
+}
+
+.blue p {
+    color: #C4C4C4; 
 }
 
 .yellow{
@@ -72,6 +79,14 @@ div{
     margin-right: 50px;
     border-right: 5px solid;
     border-top: 2px solid;
+}
+
+.green h2 {
+    color: #FFFFFF; 
+}
+
+.green p {
+    color: #333333; 
 }
 
 footer{
